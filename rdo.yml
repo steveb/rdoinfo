@@ -2889,3 +2889,11 @@ packages:
   maintainers:
   - mmagr@redhat.com
   - mrunge@redhat.com
+- project: paunch
+  tags:
+    pike-uc:
+    pike:
+  conf: rpmfactory-core
+  name: paunch
+  maintainers:
+  - sbaker@redhat.com
